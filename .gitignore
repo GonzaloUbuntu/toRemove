@@ -1,2 +1,1 @@
-git add .gitignore
-git commit -m "Añadiendo el gitignore"
+fileIgnored.txt
